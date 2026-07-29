@@ -1,6 +1,19 @@
+<p align="center">
+  <img
+    src="./assets/boot-sequence.gif"
+    width="700"
+    style="max-width:100%;"
+    alt="Boot Sequence"
+  />
+</p>
+
+<p align="center">
+
 # Hi, I'm Mohammad 👋
 
 ### Frontend Developer focused on the React ecosystem
+
+</p>
 
 Currently building modern web applications while continuously improving my software engineering skills.
 
@@ -35,8 +48,7 @@ could maintain this."
 
 **React · React Query · React Hook Form · Tailwind CSS · REST API**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=flat-square&logo=vercel&logoColor=white)](ADD_DEPLOY_URL)
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](ADD_REPO_URL)
+_Live demo & repository link coming soon_
 
 ### 🏨 Hotel Booking App
 
@@ -45,7 +57,6 @@ in sync — so a search result stays coherent as the user moves between them.
 
 **React · Context API · REST API · Tailwind CSS**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=flat-square&logo=vercel&logoColor=white)](ADD_DEPLOY_URL)
 [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohammad-Mianji/hotel-booking-app)
 
 ### 🛸 Rick and Morty Explorer
@@ -55,7 +66,6 @@ async state handled explicitly rather than assumed away.
 
 **React · Custom Hooks · REST API**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=flat-square&logo=vercel&logoColor=white)](ADD_DEPLOY_URL)
 [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohammad-Mianji/Rick-and-Morty-App)
 
 ---
@@ -93,8 +103,6 @@ async state handled explicitly rather than assumed away.
 
 Rebuilding my professional developer profile from scratch.
 
-Current Status
-
 **Main Quests:**
 
 - [ ] Responsive Design & CSS Deep Dive
@@ -114,6 +122,7 @@ Current Status
 
 - [Accordion App](https://github.com/Mohammad-Mianji/accordion-practice)
 - [Notes App](https://github.com/Mohammad-Mianji/Note-App)
+- [Notes App with RTK](https://github.com/Mohammad-Mianji/react-redux-toolkit-todo)
 
 **🔵 Portfolio** — projects built to simulate real-world applications
 
@@ -127,7 +136,7 @@ Current Status
 
 ---
 
-# 🧠 What I value
+## 🧠 What I value
 
 I care more about software quality than writing code quickly.
 
@@ -141,7 +150,7 @@ Things I always try to improve:
 
 ---
 
-# 📜 Developement Philosophy
+## 📜 Development Philosophy
 
 Every project teaches me something I carry into the next one.
 
@@ -161,33 +170,22 @@ Let's build something meaningful.
 
 ---
 
-# 🏅 ACHIEVEMENTS
+## 🏅 Milestones
 
-Instead of certificates, I prefer shipping projects.
+Instead of certificates, I prefer shipping projects. Here's what each one unlocked:
 
-Unlocked:
-
-🏅 First Authentication System
-
-🏅 First Authorization Flow
-
-🏅 First Production Dashboard
-
-🏅 First React Query Integration
-
-🏅 First Reusable Form Architecture
-
-🏅 First Custom Hook
-
-🏅 First Context API Project
-
-🏅 First useReducer Refactor
-
-🏅 First Portfolio-scale React Project
+| Milestone                                             | Where                                                                            |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 🏅 First REST API integration                         | [Rick and Morty Explorer](https://github.com/Mohammad-Mianji/Rick-and-Morty-App) |
+| 🏅 First custom hook                                  | [Rick and Morty Explorer](https://github.com/Mohammad-Mianji/Rick-and-Morty-App) |
+| 🏅 First Context API + useReducer state               | [Hotel Booking App](https://github.com/Mohammad-Mianji/hotel-booking-app)        |
+| 🏅 First React Query integration                      | Freelancing Platform                                                             |
+| 🏅 First reusable form architecture (React Hook Form) | Freelancing Platform                                                             |
+| 🏅 First authentication & protected routes            | Freelancing Platform                                                             |
 
 ---
 
-# 🌌 FINAL SCREEN
+## 🌌 Final Screen
 
 ```text
 Every repository here
