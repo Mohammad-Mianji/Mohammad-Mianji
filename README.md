@@ -1,19 +1,14 @@
 <p align="center">
-  <img
-    src="./assets/boot-sequence.gif"
-    width="700"
-    style="max-width:100%;"
-    alt="Boot Sequence"
-  />
+  <img src="./assets/boot-sequence.gif" width="85%" alt="Boot Sequence">
 </p>
 
 <p align="center">
+  <em>Frontend Developer • React Ecosystem • Continuous Learning</em>
+</p>
 
-# Hi, I'm Mohammad 👋
+---
 
 ### Frontend Developer focused on the React ecosystem
-
-</p>
 
 Currently building modern web applications while continuously improving my software engineering skills.
 
