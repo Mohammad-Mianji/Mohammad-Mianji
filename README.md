@@ -175,9 +175,9 @@ Instead of certificates, I prefer shipping projects. Here's what each one unlock
 | 🏅 First REST API integration                         | [Rick and Morty Explorer](https://github.com/Mohammad-Mianji/Rick-and-Morty-App) |
 | 🏅 First custom hook                                  | [Rick and Morty Explorer](https://github.com/Mohammad-Mianji/Rick-and-Morty-App) |
 | 🏅 First Context API + useReducer state               | [Hotel Booking App](https://github.com/Mohammad-Mianji/hotel-booking-app)        |
-| 🏅 First React Query integration                      | Freelancing Platform                                                             |
-| 🏅 First reusable form architecture (React Hook Form) | Freelancing Platform                                                             |
-| 🏅 First authentication & protected routes            | Freelancing Platform                                                             |
+| 🏅 First React Query integration                      | [Freelancing Platform ](https://github.com/Mohammad-Mianji/freelancing-platform) |
+| 🏅 First reusable form architecture (React Hook Form) | [Freelancing Platform ](https://github.com/Mohammad-Mianji/freelancing-platform) |
+| 🏅 First authentication & protected routes            | [Freelancing Platform ](https://github.com/Mohammad-Mianji/freelancing-platform) |
 
 ---
 
