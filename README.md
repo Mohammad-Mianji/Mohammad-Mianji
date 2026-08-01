@@ -43,7 +43,8 @@ could maintain this."
 
 **React · React Query · React Hook Form · Tailwind CSS · REST API**
 
-_Live demo & repository link coming soon_
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohammad-Mianji/freelancing-platform)
+_Live demo coming soon_
 
 ### 🏨 Hotel Booking App
 
@@ -125,9 +126,9 @@ Rebuilding my professional developer profile from scratch.
 
 - 🏨 [Hotel Booking App](https://github.com/Mohammad-Mianji/hotel-booking-app)
 
-**🟣 Showcase** —
+**🟣 Showcase**
 
-- 🐦 Freelancing App _(in progress)_
+- 🐦 [Freelancing Platform](https://github.com/Mohammad-Mianji/freelancing-platform/)
 
 ---
 
